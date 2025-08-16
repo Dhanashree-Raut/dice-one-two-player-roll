@@ -1,0 +1,66 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.roll-button{
+    height: 40px;
+    width: 130px;
+    font-size: 33px;
+    margin: 16px;
+    border: none;
+    box-shadow: 1px 5px;
+    background-color: yellow;
+}
+
+.dice-remove{
+  display: none !important;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.players button{
+    height: 48px;
+    width: 165px;
+    font-size: larger;
+    font-weight: 900;
+    background: brown;
+    border: none;
+    box-shadow: 1px 5px 5px;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
